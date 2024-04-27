@@ -1,0 +1,9 @@
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\BussinesLogic\bin\Debug\DataAccesLogic.dll
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\BussinesLogic\bin\Debug\Entities.dll
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\BussinesLogic\bin\Debug\DataAccesLogic.pdb
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\BussinesLogic\bin\Debug\Entities.pdb
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\BussinesLogic\obj\Debug\BussinesLogic.csprojResolveAssemblyReference.cache
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\BussinesLogic\obj\Debug\BussinesLogic.pdb

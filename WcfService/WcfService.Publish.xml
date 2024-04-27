@@ -1,0 +1,15 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\servicios\">
+    <file relUrl="bin/BussinesLogic.dll" publishTime="05/22/2019 11:48:41" />
+    <file relUrl="bin/WcfService.pdb" publishTime="05/22/2019 11:54:30" />
+    <file relUrl="bin/DataAccesLogic.dll" publishTime="05/22/2019 11:48:41" />
+    <file relUrl="bin/Entities.dll" publishTime="05/22/2019 11:48:40" />
+    <file relUrl="bin/BussinesLogic.pdb" publishTime="05/22/2019 11:48:41" />
+    <file relUrl="Web.config" publishTime="05/21/2019 11:55:17" />
+    <file relUrl="bin/WcfService.dll.config" publishTime="05/21/2019 11:55:17" />
+    <file relUrl="WcfService.Service1.svc" publishTime="05/22/2019 11:54:31" />
+    <file relUrl="bin/Entities.pdb" publishTime="05/22/2019 11:48:40" />
+    <file relUrl="bin/WcfService.dll" publishTime="05/22/2019 11:54:30" />
+    <file relUrl="bin/DataAccesLogic.pdb" publishTime="05/22/2019 11:48:41" />
+  </publishTarget>
+</publishData>

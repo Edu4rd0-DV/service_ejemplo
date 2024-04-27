@@ -1,0 +1,5 @@
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\Entities\bin\Debug\Entities.dll
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\Entities\bin\Debug\Entities.pdb
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\Entities\obj\Debug\Entities.dll
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\Entities\obj\Debug\Entities.pdb

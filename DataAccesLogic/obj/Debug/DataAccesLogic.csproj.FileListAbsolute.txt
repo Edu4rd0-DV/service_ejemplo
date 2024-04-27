@@ -1,0 +1,7 @@
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\DataAccesLogic\bin\Debug\DataAccesLogic.dll
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\DataAccesLogic\bin\Debug\DataAccesLogic.pdb
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\DataAccesLogic\bin\Debug\Entities.dll
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\DataAccesLogic\bin\Debug\Entities.pdb
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\DataAccesLogic\obj\Debug\DataAccesLogic.csprojResolveAssemblyReference.cache
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\DataAccesLogic\obj\Debug\DataAccesLogic.dll
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2015\Projects\backend\DataAccesLogic\obj\Debug\DataAccesLogic.pdb
